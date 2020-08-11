@@ -1,2 +1,5 @@
-# 155N-Test-Repo
-Test Repo
+Jeffrey Dusang
+Transfer Sophomore
+Chemical Engineering
+CSCE 155N
+GitHub Website
